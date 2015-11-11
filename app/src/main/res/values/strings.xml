@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ExpandableList</string>
+    <string name="menu_authorization">Авторизироваться</string>
+    <string name="menu_json_data_fail">Не удалось получить данные о пользователях</string>
+
+    <string name="main_alert_title">Авторизация</string>
+    <string name="main_alert_text">Что бы просмотреть контактную информацию пользователей необходимо авторизироваться.</string>
+    <string name="main_alert_ok">Авторизироваться</string>
+    <string name="main_alert_cancel">Отказаться</string>
+
+    <string name="item_phone">Телефон:</string>
+
+    <string name="sign_in_dialog">Войти</string>
+    <string name="sign_in_username">Логин</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_in_later">Позже</string>
+    <string name="sign_in_register">Зарегстрироваться</string>
+    <string name="sign_in_password">Пароль</string>
+    <string name="sign_in_error">Ошибка входа</string>
+    <string name="sign_in_succeeded">Вы успешно авторизированы</string>
+    <string name="sign_in_toast_success">Добро пожаловать!</string>
+    <string name="sign_in_toast_failed">Логин или пароль указаны не верно</string>
+
+    <string name="register_dialog">Зарегестрироваться</string>
+    <string name="register_username">Логин*</string>
+    <string name="register_password">Пароль*</string>
+    <string name="register_repeat_password">Повторите пароль*</string>
+    <string name="register_first_name">Имя пользователя*</string>
+    <string name="register_last_name">Фамилия пользователя</string>
+    <string name="register_phone_number">Номер телефона*</string>
+    <string name="register_image">Укажите URL адрес аватара</string>
+    <string name="register_toast_mandatory_fields">Заполните все обязательные поля</string>
+    <string name="register_toast_password_match">Указанные пароли не совпадают</string>
+    <string name="register_toast_login_exist">Данный логин уже существует</string>
+    <string name="register_toast_success">Вы успешно зарегестрированы!</string>
+    <string name="register_toast_failed">Непредвиденная ошибка регистрации</string>
+</resources>

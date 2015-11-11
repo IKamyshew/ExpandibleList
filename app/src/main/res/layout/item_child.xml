@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/item_child"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ff8abff7">
+
+    <TextView
+        android:id="@+id/userPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Phone: +380672201788"
+        android:textColor="#ffff4537"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+
+</LinearLayout>
